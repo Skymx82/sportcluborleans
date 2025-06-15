@@ -12,7 +12,7 @@ export default function NotFound() {
               <h1 className="text-4xl font-bold text-white mb-4">Accès limité</h1>
               <div className="w-24 h-1 bg-white mx-auto mb-6"></div>
               <Image
-                src="/prestacomm.jpg"
+                src="images/prestacomm.jpg"
                 alt="Prestacomm Logo"
                 width={180}
                 height={60}
